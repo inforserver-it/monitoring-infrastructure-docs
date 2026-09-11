@@ -296,7 +296,7 @@ Fail2ban permanece operativo y protege el servicio SSH frente a intentos automat
 ├── prometheus.md
 ├── loki.md
 ├── alloy.md
-├── alloy-logs.md
+├── logs.md
 ├── node-exporter.md
 ├── servidores.md
 ├── seguridad.md
@@ -311,7 +311,7 @@ Fail2ban permanece operativo y protege el servicio SSH frente a intentos automat
 - `prometheus.md` — jobs, targets y PromQL.
 - `loki.md` — almacenamiento y consulta de logs.
 - `alloy.md` — agente Grafana Alloy.
-- `alloy-logs.md` — configuración relacionada con logs.
+- `logs.md` — configuración relacionada con logs.
 - `node-exporter.md` — métricas Linux mediante Node Exporter.
 - `servidores.md` — información individual de cada servidor.
 - `seguridad.md` — decisiones y procedimientos de seguridad.
